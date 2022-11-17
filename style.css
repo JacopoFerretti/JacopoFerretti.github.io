@@ -3,7 +3,15 @@
     font-family: Impact;
     text-align: center;
 }
-  
+body {
+    background-color: rgb(0, 255, 251);
+}
+input{
+    margin-top: 15px;
+}
+input, p {
+    font-weight: bold;
+}
 
 
 
